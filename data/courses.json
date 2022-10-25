@@ -1,0 +1,101 @@
+[
+    {
+        "id": "01",
+        "name": "Web development",
+        "author_name": "Michele Hints",
+        "author_img": "https://images.gr-assets.com/authors/1378391446p8/7086591.jpg",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.8R2Szu6wOEOXkz_RFq6KbgHaEK&pid=Api&P=0",
+        "Duration": "02 hours 20 minutes",
+        "Lessons": "10 Lessons",
+        "Enrolled": 138,
+        "rating": 4.5
+    },
+    {
+        "id": "02",
+        "name": "App development",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.8bH8gCSNvHdHelHgEsnEFgHaDt&pid=Api&P=0",
+        "author_name": "Charles Baj",
+        "author_img": "https://images.gr-assets.com/authors/1378391446p8/7086591.jpg",
+        "Duration": "02 hours 20 minutes",
+        "Lessons": "10 Lessons",
+        "Enrolled": 138,
+        "rating": 4.5
+    },
+    {
+        "id": "03",
+        "name": "Digital Marketing",
+        "img": "https://tse1.mm.bing.net/th?id=OIP.zqio1FG62SoOxYG7DGv-BAHaEL&pid=Api&P=0",
+        "author_name": "Stephen Mars",
+        "author_img": "https://images.gr-assets.com/authors/1378391446p8/7086591.jpg",
+        "Duration": "02 hours 20 minutes",
+        "Lessons": "10 Lessons",
+        "Enrolled": 138,
+        "rating": 4.5
+    },
+    {
+        "id": "04",
+        "name": "Data Science",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.B2ZuIXdyodArav27RJL8GwHaEK&pid=Api&P=0",
+        "author_name": "Michele Telika",
+        "author_img": "https://images.gr-assets.com/authors/1378391446p8/7086591.jpg",
+        "Duration": "02 hours 20 minutes",
+        "Lessons": "10 Lessons",
+        "Enrolled": 138,
+        "rating": 4.5
+    },
+    {
+        "id": "05",
+        "name": "Machine Learning",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.dDKPvmo7OWwPoWBa06smfAHaFj&pid=Api&P=0",
+        "author_name": "Charles Mambi",
+        "author_img": "https://images.gr-assets.com/authors/1378391446p8/7086591.jpg",
+        "Duration": "02 hours 20 minutes",
+        "Lessons": "10 Lessons",
+        "Enrolled": 138,
+        "rating": 4.5
+    },
+    {
+        "id": "06",
+        "name": "Artificial Intelligence",
+        "img": "https://tse4.mm.bing.net/th?id=OIP.qY4rLOMNwVOGdaENBLXJbQHaEc&pid=Api&P=0",
+        "author_name": "Ayshal Giys",
+        "author_img": "https://images.gr-assets.com/authors/1378391446p8/7086591.jpg",
+        "Duration": "02 hours 20 minutes",
+        "Lessons": "10 Lessons",
+        "Enrolled": 138,
+        "rating": 4.5
+    },
+    {
+        "id": "07",
+        "name": "Big Data",
+        "img": "https://www.atulhost.com/wp-content/uploads/2017/06/big-data.jpg0",
+        "author_name": "Whistal Maris",
+        "author_img": "https://images.gr-assets.com/authors/1378391446p8/7086591.jpg",
+        "Duration": "02 hours 20 minutes",
+        "Lessons": "10 Lessons",
+        "Enrolled": 138,
+        "rating": 4.5
+    },
+    {
+        "id": "08",
+        "name": "Neural Network",
+        "img": "https://www.thetalkingmachines.com/sites/default/files/styles/widescreen_large/public/2020-02/44_nodes_network_0.jpg?itok=XcDuB1Es",
+        "author_name": "Piter Marker",
+        "author_img": "https://images.gr-assets.com/authors/1378391446p8/7086591.jpg",
+        "Duration": "02 hours 20 minutes",
+        "Lessons": "10 Lessons",
+        "Enrolled": 138,
+        "rating": 4.5
+    },
+    {
+        "id": "09",
+        "name": ".Net Programing",
+        "img": "https://bigclasses.com/blog/wp-content/uploads/2013/04/C-.Net-online-training.jpg",
+        "author_name": "Parker Malin",
+        "author_img": "https://images.gr-assets.com/authors/1378391446p8/7086591.jpg",
+        "Duration": "02 hours 20 minutes",
+        "Lessons": "10 Lessons",
+        "Enrolled": 138,
+        "rating": 4.5
+    }
+]
