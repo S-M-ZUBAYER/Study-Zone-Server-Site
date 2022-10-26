@@ -11,6 +11,11 @@ app.get('/', (req, res) => {
 app.get('/courses', (req, res) => {
     res.send(courses)
 })
+app.get('/courses/:id', (req, res) => {
+    const courseId = req.params.id;
+    const course = courses.find(item => item.id == courseId);
+    res.send(course)
+})
 
 app.listen(port, () => {
     console.log(`Showing the data on ${port}`)
